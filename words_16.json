@@ -1,1 +1,3640 @@
-/home/jacoby/words_16.json
+[
+   {
+      "size" : 1,
+      "name" : "UNCONTRADICTABLY",
+      "imports" : [
+         "UNCONTRADICTABLE"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "OLIGODENDROGLIAS"
+      ],
+      "name" : "OLIGODENDROGLIAL"
+   },
+   {
+      "name" : "COUNTERBLOCKADES",
+      "imports" : [
+         "COUNTERBLOCKADED"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "COMPARTMENTALISE"
+      ],
+      "name" : "COMPARTMENTALIZE"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "INCORRUPTIBILITY"
+      ],
+      "name" : "UNCORRUPTIBILITY"
+   },
+   {
+      "imports" : [
+         "STRONGYLOIDIASIS"
+      ],
+      "name" : "STRONGYLOIDIASES",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "INHOSPITABLENESS",
+      "imports" : [
+         "UNHOSPITABLENESS"
+      ]
+   },
+   {
+      "name" : "CONVENTIONALISTS",
+      "imports" : [
+         "CONVENTIONALISMS"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "THEOPHILANTHROPE"
+      ],
+      "name" : "THEOPHILANTHROPY"
+   },
+   {
+      "name" : "PHOTOSYNTHESIZED",
+      "imports" : [
+         "PHOTOSYNTHESIZES"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "UNDELIBERATENESS"
+      ],
+      "name" : "INDELIBERATENESS"
+   },
+   {
+      "imports" : [
+         "TRANSILLUMINATED"
+      ],
+      "name" : "TRANSILLUMINATES",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "INSTITUTIONALISM",
+      "imports" : [
+         "INSTITUTIONALISE",
+         "INSTITUTIONALIST"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "INCONDENSABILITY"
+      ],
+      "name" : "INCONDENSIBILITY"
+   },
+   {
+      "imports" : [
+         "STAPHYLOCOCCEMIA"
+      ],
+      "name" : "STAPHYLOCOCCEMIC",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "MACROLEPIDOPTERA"
+      ],
+      "name" : "MICROLEPIDOPTERA"
+   },
+   {
+      "imports" : [
+         "DEPARTMENTALIZES"
+      ],
+      "name" : "DEPARTMENTALIZED",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "THERMOREGULATORS"
+      ],
+      "name" : "THERMOREGULATORY",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "PRETERNATURALISM"
+      ],
+      "name" : "PRETERNATURALIST"
+   },
+   {
+      "imports" : [
+         "AEROTHERAPEUTICS"
+      ],
+      "name" : "SEROTHERAPEUTICS",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "CONTINUOUSNESSES"
+      ],
+      "name" : "CONTIGUOUSNESSES"
+   },
+   {
+      "size" : 1,
+      "name" : "INCOMMODIOUSNESS",
+      "imports" : [
+         "UNCOMMODIOUSNESS"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "JUSTICIABILITIES",
+      "imports" : [
+         "JUSTIFIABILITIES"
+      ]
+   },
+   {
+      "imports" : [
+         "FICTITIOUSNESSES"
+      ],
+      "name" : "FACTITIOUSNESSES",
+      "size" : 1
+   },
+   {
+      "name" : "MACROCRYSTALLINE",
+      "imports" : [
+         "MICROCRYSTALLINE"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "INEXPLICABLENESS"
+      ],
+      "name" : "UNEXPLICABLENESS"
+   },
+   {
+      "name" : "UNRELIEVABLENESS",
+      "imports" : [
+         "UNBELIEVABLENESS"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "INSTITUTIONALISE",
+      "imports" : [
+         "INSTITUTIONALIST",
+         "INSTITUTIONALISM",
+         "INSTITUTIONALIZE"
+      ]
+   },
+   {
+      "name" : "LYMPHADENECTASIS",
+      "imports" : [
+         "LYMPHADENECTASIA"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "PALAEOPTYCHOLOGY",
+      "imports" : [
+         "PALAEOPSYCHOLOGY"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "IMMUNOMODULATORS"
+      ],
+      "name" : "IMMUNOMODULATORY",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "SUPERSERVICEABLE"
+      ],
+      "name" : "SUPERSERVICEABLY"
+   },
+   {
+      "size" : 1,
+      "name" : "GOVERNMENTALIZED",
+      "imports" : [
+         "GOVERNMENTALIZES"
+      ]
+   },
+   {
+      "imports" : [
+         "TRANSILLUMINATES"
+      ],
+      "name" : "TRANSILLUMINATED",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "EXTEMPORIZATIONS"
+      ],
+      "name" : "EXTEMPORISATIONS",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "SILICOFLAGELLATA",
+      "imports" : [
+         "SILICOFLAGELLATE"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "COUNTERTERRORISM"
+      ],
+      "name" : "COUNTERTERRORIST"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "INCOMMODIOUSNESS"
+      ],
+      "name" : "UNCOMMODIOUSNESS"
+   },
+   {
+      "imports" : [
+         "INCORRESPONDENCY"
+      ],
+      "name" : "INCORRESPONDENCE",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "PROCESSABILITIES"
+      ],
+      "name" : "PROCESSIBILITIES"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "PROFESSIONALISMS"
+      ],
+      "name" : "PROFESSIONALISTS"
+   },
+   {
+      "name" : "UNPROPORTIONABLE",
+      "imports" : [
+         "UNPROPORTIONABLY"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "INFELICITOUSNESS",
+      "imports" : [
+         "UNFELICITOUSNESS"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "PHOTOJOURNALISTS"
+      ],
+      "name" : "PHOTOJOURNALISMS",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "UNSATISFACTORILY"
+      ],
+      "name" : "INSATISFACTORILY",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "MICROCRYSTALLINE",
+      "imports" : [
+         "MACROCRYSTALLINE"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "SILICOCALCAREOUS",
+      "imports" : [
+         "SILICICALCAREOUS"
+      ]
+   },
+   {
+      "name" : "CEREBELLOPONTINE",
+      "imports" : [
+         "CEREBELLOPONTILE"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "INSUBSTANTIALITY"
+      ],
+      "name" : "UNSUBSTANTIALITY"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "UNCOGNOSCIBILITY"
+      ],
+      "name" : "INCOGNOSCIBILITY"
+   },
+   {
+      "name" : "MICROINSTRUCTION",
+      "imports" : [
+         "MACROINSTRUCTION"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "ULTRANATIONALIST"
+      ],
+      "name" : "ULTRANATIONALISM",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "COUNTERTERRORIST"
+      ],
+      "name" : "COUNTERTERRORISM",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "CONVENTIONALIZES"
+      ],
+      "name" : "CONVENTIONALIZED"
+   },
+   {
+      "name" : "PHYLLOSTOMATIDAE",
+      "imports" : [
+         "PHYLLOSTOMATINAE"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "ANTIFIBRINOLYSIN"
+      ],
+      "name" : "ANTIFIBRINOLYSIS"
+   },
+   {
+      "name" : "INAPPLICABLENESS",
+      "imports" : [
+         "UNAPPLICABLENESS"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "SULPHOANTIMONATE",
+      "imports" : [
+         "SULPHOANTIMONITE"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "OVERORCHESTRATES",
+      "imports" : [
+         "OVERORCHESTRATED"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "PREPARTICIPATION"
+      ],
+      "name" : "PROPARTICIPATION"
+   },
+   {
+      "name" : "CIRCUMNAVIGATORY",
+      "imports" : [
+         "CIRCUMNAVIGATORS"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "PROREVOLUTIONARY"
+      ],
+      "name" : "PREREVOLUTIONARY",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "SUPRANATIONALISM"
+      ],
+      "name" : "SUPRANATIONALIST",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "RECLASSIFICATION"
+      ],
+      "name" : "DECLASSIFICATION"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "UNCRYSTALLIZABLE"
+      ],
+      "name" : "INCRYSTALLIZABLE"
+   },
+   {
+      "imports" : [
+         "IMPERFECTABILITY"
+      ],
+      "name" : "IMPERFECTIBILITY",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "DEPRESSIBILITIES"
+      ],
+      "name" : "REPRESSIBILITIES"
+   },
+   {
+      "size" : 1,
+      "name" : "PHOTOGRAPHICALLY",
+      "imports" : [
+         "PHONOGRAPHICALLY"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "GOVERNMENTALIZED"
+      ],
+      "name" : "GOVERNMENTALIZES"
+   },
+   {
+      "name" : "ANTHROPOMORPHISM",
+      "imports" : [
+         "ANTHROPOMORPHIST"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "PHOTOLITHOGRAPHS"
+      ],
+      "name" : "PHOTOLITHOGRAPHY",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "INDEFEASIBLENESS",
+      "imports" : [
+         "INDEFENSIBLENESS"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "COLORIMETRICALLY"
+      ],
+      "name" : "CALORIMETRICALLY"
+   },
+   {
+      "imports" : [
+         "EXPERIMENTALISMS"
+      ],
+      "name" : "EXPERIMENTALISTS",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "MEGASPOROGENESIS"
+      ],
+      "name" : "MEGASPOROGENESES",
+      "size" : 1
+   },
+   {
+      "name" : "AUTOLARYNGOSCOPE",
+      "imports" : [
+         "AUTOLARYNGOSCOPY"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "CONJUNCTIVITISES",
+      "imports" : [
+         "CONJUNCTIVITIDES"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "ANTIREDUCTIONIST"
+      ],
+      "name" : "ANTIREDUCTIONISM"
+   },
+   {
+      "size" : 1,
+      "name" : "RECENTRALIZATION",
+      "imports" : [
+         "DECENTRALIZATION"
+      ]
+   },
+   {
+      "imports" : [
+         "THROMBOCYTOPENIC"
+      ],
+      "name" : "THROMBOCYTOPENIA",
+      "size" : 1
+   },
+   {
+      "name" : "GOVERNMENTALISTS",
+      "imports" : [
+         "GOVERNMENTALISMS"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "TUBULIBRANCHIATE"
+      ],
+      "name" : "TUBULIBRANCHIATA",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "MISCHARACTERIZED",
+      "imports" : [
+         "MISCHARACTERIZES"
+      ]
+   },
+   {
+      "imports" : [
+         "ELECTROMAGNETIST"
+      ],
+      "name" : "ELECTROMAGNETISM",
+      "size" : 1
+   },
+   {
+      "name" : "INCONVERSIBILITY",
+      "imports" : [
+         "INCONVERTIBILITY"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "INTERNATIONALISE"
+      ],
+      "name" : "INTERNATIONALIZE"
+   },
+   {
+      "size" : 1,
+      "name" : "SUPERMILLIONAIRE",
+      "imports" : [
+         "SUPERBILLIONAIRE"
+      ]
+   },
+   {
+      "imports" : [
+         "PREVENTABILITIES"
+      ],
+      "name" : "PRESENTABILITIES",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "HYDROFERROCYANIC"
+      ],
+      "name" : "HYDROFERRICYANIC",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "CONJUNCTIVITISES"
+      ],
+      "name" : "CONJUNCTIVITIDES",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "MICRORADIOGRAPHY"
+      ],
+      "name" : "MICRORADIOGRAPHS",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "CEREBELLOPONTILE",
+      "imports" : [
+         "CEREBELLOPONTINE"
+      ]
+   },
+   {
+      "imports" : [
+         "ENVIRONMENTALIST"
+      ],
+      "name" : "ENVIRONMENTALISM",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "BRACHISTOCEPHALY"
+      ],
+      "name" : "BRACHISTOCEPHALI",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "INAPPLICABLENESS"
+      ],
+      "name" : "UNAPPLICABLENESS"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "THEOCOLLECTIVIST"
+      ],
+      "name" : "THEOCOLLECTIVISM"
+   },
+   {
+      "name" : "UNDEFENDABLENESS",
+      "imports" : [
+         "UNDEPENDABLENESS"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "FERROHYDROCYANIC",
+      "imports" : [
+         "FERRIHYDROCYANIC"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "UNEXPLICABLENESS"
+      ],
+      "name" : "INEXPLICABLENESS"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "CADUCIBRANCHIATA"
+      ],
+      "name" : "CADUCIBRANCHIATE"
+   },
+   {
+      "name" : "OVERORCHESTRATED",
+      "imports" : [
+         "OVERORCHESTRATES"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "HYPERVITAMINOSES"
+      ],
+      "name" : "HYPERVITAMINOSIS"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "SENSATIONALIZING"
+      ],
+      "name" : "SENSATIONALISING"
+   },
+   {
+      "size" : 1,
+      "name" : "MULTITUBERCULATA",
+      "imports" : [
+         "MULTITUBERCULATE"
+      ]
+   },
+   {
+      "name" : "ANTINATIONALISTS",
+      "imports" : [
+         "ANTIRATIONALISTS"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "DECONTAMINATIONS"
+      ],
+      "name" : "RECONTAMINATIONS"
+   },
+   {
+      "size" : 1,
+      "name" : "CHEMOPROPHYLAXIS",
+      "imports" : [
+         "CHEMOPROPHYLAXES"
+      ]
+   },
+   {
+      "name" : "RECHROMATOGRAPHY",
+      "imports" : [
+         "RECHROMATOGRAPHS"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "PARALLELOPIPEDON"
+      ],
+      "name" : "PARALLELEPIPEDON"
+   },
+   {
+      "name" : "UNCONVINCIBILITY",
+      "imports" : [
+         "INCONVINCIBILITY"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "INTELLECTUALISTS",
+      "imports" : [
+         "INTELLECTUALISMS"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "UNSEASONABLENESS",
+      "imports" : [
+         "UNREASONABLENESS"
+      ]
+   },
+   {
+      "name" : "HYDROFERROCYANIC",
+      "imports" : [
+         "HYDROFERRICYANIC"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "INEXTINGUISHABLE",
+      "imports" : [
+         "UNEXTINGUISHABLE",
+         "INEXTINGUISHABLY"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "CHEMOPROPHYLAXES",
+      "imports" : [
+         "CHEMOPROPHYLAXIS"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "INTERVENTIONISTS"
+      ],
+      "name" : "INTERVENTIONISMS"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "OLIGODENDROGLIAL"
+      ],
+      "name" : "OLIGODENDROGLIAS"
+   },
+   {
+      "imports" : [
+         "PSYCHOPANNYCHIST"
+      ],
+      "name" : "PSYCHOPANNYCHISM",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "SUPERNATURALISTS"
+      ],
+      "name" : "SUPERNATURALISMS"
+   },
+   {
+      "name" : "IMMUNOMODULATORS",
+      "imports" : [
+         "IMMUNOMODULATORY"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "INSTITUTIONALIST",
+      "imports" : [
+         "INSTITUTIONALISM",
+         "INSTITUTIONALISE"
+      ]
+   },
+   {
+      "imports" : [
+         "MISAPPROPRIATION"
+      ],
+      "name" : "DISAPPROPRIATION",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "MICROCALORIMETER",
+      "imports" : [
+         "MICROCOLORIMETER"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "INTENTIONALITIES"
+      ],
+      "name" : "INTENSIONALITIES"
+   },
+   {
+      "size" : 1,
+      "name" : "REPRESSIVENESSES",
+      "imports" : [
+         "REGRESSIVENESSES"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "SUPRANATIONALISM",
+      "imports" : [
+         "SUPRARATIONALISM",
+         "SUPRANATIONALIST"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "DECONCENTRATIONS",
+      "imports" : [
+         "RECONCENTRATIONS"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "BRONCHOPNEUMONIA"
+      ],
+      "name" : "BRONCHOPNEUMONIC"
+   },
+   {
+      "size" : 1,
+      "name" : "ERYTHROCYTOLYSIN",
+      "imports" : [
+         "ERYTHROCYTOLYSIS"
+      ]
+   },
+   {
+      "imports" : [
+         "CHOANOFLAGELLATE"
+      ],
+      "name" : "CHOANOFLAGELLATA",
+      "size" : 1
+   },
+   {
+      "name" : "MICROSEISMOGRAPH",
+      "imports" : [
+         "MACROSEISMOGRAPH"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "PSEUDOPARENCHYMA"
+      ],
+      "name" : "PSEUDOPARENCHYME",
+      "size" : 1
+   },
+   {
+      "name" : "INSTRUMENTALISTS",
+      "imports" : [
+         "INSTRUMENTALISMS"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "ICHNOGRAPHICALLY",
+      "imports" : [
+         "ICONOGRAPHICALLY"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "FLIBBERTIGIBBETS",
+      "imports" : [
+         "FLIBBERTIGIBBETY"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "INTERMINABLENESS",
+      "imports" : [
+         "UNTERMINABLENESS"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "MULTILATERALISTS"
+      ],
+      "name" : "MULTILATERALISMS"
+   },
+   {
+      "imports" : [
+         "DECLASSIFICATION"
+      ],
+      "name" : "RECLASSIFICATION",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "PHOTOCHROMOSCOPE",
+      "imports" : [
+         "PHOTOCHROMASCOPE"
+      ]
+   },
+   {
+      "name" : "INDECLINABLENESS",
+      "imports" : [
+         "UNDECLINABLENESS"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "MICROLEPIDOPTERA"
+      ],
+      "name" : "MACROLEPIDOPTERA",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "DEGENERATENESSES"
+      ],
+      "name" : "REGENERATENESSES"
+   },
+   {
+      "size" : 1,
+      "name" : "IRREDRESSIBILITY",
+      "imports" : [
+         "IRREPRESSIBILITY"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "IMMUNOSUPPRESSED"
+      ],
+      "name" : "IMMUNOSUPPRESSES"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "PHOTODISSOCIATES"
+      ],
+      "name" : "PHOTODISSOCIATED"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "COLLABORATIONIST"
+      ],
+      "name" : "COLLABORATIONISM"
+   },
+   {
+      "name" : "UNSUFFERABLENESS",
+      "imports" : [
+         "INSUFFERABLENESS"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "INACCESSIBLENESS",
+      "imports" : [
+         "UNACCESSIBLENESS"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "PHONOGRAPHICALLY",
+      "imports" : [
+         "PHOTOGRAPHICALLY"
+      ]
+   },
+   {
+      "imports" : [
+         "COMPARTMENTALIZE"
+      ],
+      "name" : "COMPARTMENTALISE",
+      "size" : 1
+   },
+   {
+      "name" : "DECAPITALIZATION",
+      "imports" : [
+         "RECAPITALIZATION"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "RECAPITALIZATION",
+      "imports" : [
+         "DECAPITALIZATION"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "INEXTINGUISHABLY",
+      "imports" : [
+         "UNEXTINGUISHABLY",
+         "INEXTINGUISHABLE"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "INDEFENSIBLENESS",
+      "imports" : [
+         "INDEFEASIBLENESS"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "MICROCOLORIMETRY"
+      ],
+      "name" : "MICROCALORIMETRY"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "THEOCOLLECTIVISM"
+      ],
+      "name" : "THEOCOLLECTIVIST"
+   },
+   {
+      "size" : 1,
+      "name" : "ULTRAIMPERIALISM",
+      "imports" : [
+         "ULTRAIMPERIALIST"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "REINDUSTRIALIZES",
+      "imports" : [
+         "REINDUSTRIALIZED",
+         "DEINDUSTRIALIZES"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "UNCONTROVERTABLY",
+      "imports" : [
+         "UNCONTROVERTABLE",
+         "UNCONTROVERTIBLY"
+      ]
+   },
+   {
+      "imports" : [
+         "CONTROVERSIALISM"
+      ],
+      "name" : "CONTROVERSIALIST",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "INDISPUTABLENESS"
+      ],
+      "name" : "UNDISPUTABLENESS"
+   },
+   {
+      "name" : "PSEUDOPARENCHYMA",
+      "imports" : [
+         "PSEUDOPARENCHYME"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "ANTICLERICALISMS",
+      "imports" : [
+         "ANTICLERICALISTS"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "DEDIFFERENTIATES",
+      "imports" : [
+         "DEDIFFERENTIATED"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "INCIRCUMSPECTION"
+      ],
+      "name" : "UNCIRCUMSPECTION"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "DIAGRAMMITICALLY"
+      ],
+      "name" : "DIAGRAMMATICALLY"
+   },
+   {
+      "imports" : [
+         "UNPROPORTIONABLY"
+      ],
+      "name" : "UNPROPORTIONALLY",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "DEDIFFERENTIATED",
+      "imports" : [
+         "DEDIFFERENTIATES"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "EXTERNALISATIONS",
+      "imports" : [
+         "EXTERNALIZATIONS"
+      ]
+   },
+   {
+      "name" : "UNCALCULABLENESS",
+      "imports" : [
+         "INCALCULABLENESS"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "PHENYLKETONURICS"
+      ],
+      "name" : "PHENYLKETONURIAS",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "INTERCRYSTALLINE"
+      ],
+      "name" : "INTERCRYSTALLIZE",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "INSTRUMENTALISTS"
+      ],
+      "name" : "INSTRUMENTALISMS",
+      "size" : 1
+   },
+   {
+      "name" : "PANTANENCEPHALIA",
+      "imports" : [
+         "PANTANENCEPHALIC"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "SYNCHRONIZATIONS"
+      ],
+      "name" : "SYNCHRONISATIONS",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "UNSUSCEPTIBILITY",
+      "imports" : [
+         "INSUSCEPTIBILITY"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "PROFESSIONALIZES"
+      ],
+      "name" : "PROFESSIONALIZED"
+   },
+   {
+      "size" : 1,
+      "name" : "MACROSEISMOGRAPH",
+      "imports" : [
+         "MICROSEISMOGRAPH"
+      ]
+   },
+   {
+      "imports" : [
+         "ANTIFIBRINOLYSIS"
+      ],
+      "name" : "ANTIFIBRINOLYSIN",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "PSYCHOPANNYCHISM"
+      ],
+      "name" : "PSYCHOPANNYCHIST"
+   },
+   {
+      "imports" : [
+         "UNEXPRESSIVENESS"
+      ],
+      "name" : "INEXPRESSIVENESS",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "COUNTERBLOCKADES"
+      ],
+      "name" : "COUNTERBLOCKADED"
+   },
+   {
+      "imports" : [
+         "HYPERVITAMINOSIS"
+      ],
+      "name" : "HYPERVITAMINOSES",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "HYDROCHARITACEAE",
+      "imports" : [
+         "HYDROCHARIDACEAE"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "CONSIGNIFICATION",
+      "imports" : [
+         "NONSIGNIFICATION"
+      ]
+   },
+   {
+      "name" : "VESPERTILIONINAE",
+      "imports" : [
+         "VESPERTILIONIDAE"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "UNCOMPREHENSIBLE",
+      "imports" : [
+         "INCOMPREHENSIBLE"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "UNSUSPICIOUSNESS",
+         "INAUSPICIOUSNESS"
+      ],
+      "name" : "UNAUSPICIOUSNESS"
+   },
+   {
+      "size" : 1,
+      "name" : "BRONCHOPNEUMONIA",
+      "imports" : [
+         "BRONCHOPNEUMONIC"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "ASSIMILATIONISTS",
+      "imports" : [
+         "ASSIMILATIONISMS"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "UNSUBSTANTIALITY"
+      ],
+      "name" : "INSUBSTANTIALITY"
+   },
+   {
+      "size" : 1,
+      "name" : "PROLETARIANIZING",
+      "imports" : [
+         "PROLETARIANISING"
+      ]
+   },
+   {
+      "name" : "SUPRARATIONALITY",
+      "imports" : [
+         "SUPRANATIONALITY"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "PROCONCENTRATION",
+      "imports" : [
+         "PRECONCENTRATION"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "CONFESSIONALISTS",
+      "imports" : [
+         "CONFESSIONALISMS"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "UNEXTINGUISHABLE",
+      "imports" : [
+         "UNEXTINGUISHABLY",
+         "INEXTINGUISHABLE"
+      ]
+   },
+   {
+      "imports" : [
+         "UNPROPORTIONALLY",
+         "UNPROPORTIONABLE"
+      ],
+      "name" : "UNPROPORTIONABLY",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "EXTEMPORISATIONS"
+      ],
+      "name" : "EXTEMPORIZATIONS",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "UNCONVERTIBILITY",
+         "INCONVERSIBILITY"
+      ],
+      "name" : "INCONVERTIBILITY",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "UNAPPEASABLENESS",
+      "imports" : [
+         "UNAPPEALABLENESS"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "PREMILLENNIALISM"
+      ],
+      "name" : "PREMILLENNIALIST"
+   },
+   {
+      "name" : "CONSIGNIFICATIVE",
+      "imports" : [
+         "NONSIGNIFICATIVE"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "PHOTOMICROGRAPHY"
+      ],
+      "name" : "PHOTOMICROGRAPHS"
+   },
+   {
+      "name" : "PRECONSOLIDATION",
+      "imports" : [
+         "PROCONSOLIDATION"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "MACROCHIROPTERAN"
+      ],
+      "name" : "MICROCHIROPTERAN"
+   },
+   {
+      "size" : 1,
+      "name" : "NEOIMPRESSIONIST",
+      "imports" : [
+         "NEOIMPRESSIONISM"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "PROTOCOLEOPTERON",
+      "imports" : [
+         "PROTOCOLEOPTERAN"
+      ]
+   },
+   {
+      "imports" : [
+         "IMMEASURABLENESS"
+      ],
+      "name" : "IMMENSURABLENESS",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "UNDISCRIMINATING"
+      ],
+      "name" : "INDISCRIMINATING"
+   },
+   {
+      "imports" : [
+         "SILICOCALCAREOUS"
+      ],
+      "name" : "SILICICALCAREOUS",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "INEXTINGUISHABLY",
+         "UNEXTINGUISHABLE"
+      ],
+      "name" : "UNEXTINGUISHABLY",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "INTELLECTUALIZER",
+      "imports" : [
+         "INTELLECTUALIZED",
+         "INTELLECTUALIZES"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "INTRAPERICARDIAC",
+      "imports" : [
+         "INTRAPERICARDIAL"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "AUSPICIOUSNESSES"
+      ],
+      "name" : "SUSPICIOUSNESSES"
+   },
+   {
+      "name" : "DEPOLYMERIZATION",
+      "imports" : [
+         "REPOLYMERIZATION"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "MACROPHOTOGRAPHY",
+         "MICROPHOTOGRAPHS"
+      ],
+      "name" : "MACROPHOTOGRAPHS",
+      "size" : 1
+   },
+   {
+      "name" : "ELECTROMYOGRAPHS",
+      "imports" : [
+         "ELECTROMYOGRAPHY"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "OVERCAPTIOUSNESS"
+      ],
+      "name" : "OVERCAUTIOUSNESS"
+   },
+   {
+      "imports" : [
+         "PHOTOLITHOGRAPHY"
+      ],
+      "name" : "PHOTOLITHOGRAPHS",
+      "size" : 1
+   },
+   {
+      "name" : "GOVERNMENTALISMS",
+      "imports" : [
+         "GOVERNMENTALISTS"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "ENVIRONMENTALIST",
+      "imports" : [
+         "ENVIRONMENTALISM"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "HYDROSULPHURETED"
+      ],
+      "name" : "HYDROSULPHURATED",
+      "size" : 1
+   },
+   {
+      "name" : "AEROBIOLOGICALLY",
+      "imports" : [
+         "AGROBIOLOGICALLY"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "MISAPPROPRIATION",
+      "imports" : [
+         "DISAPPROPRIATION"
+      ]
+   },
+   {
+      "imports" : [
+         "FLIBBERTIGIBBETS"
+      ],
+      "name" : "FLIBBERTIGIBBETY",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "PNEUMONOCONIOSIS"
+      ],
+      "name" : "PNEUMONOKONIOSIS",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "UNCONCLUSIVENESS"
+      ],
+      "name" : "INCONCLUSIVENESS",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "PROTELYTROPTERAN"
+      ],
+      "name" : "PROTELYTROPTERON"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "MICROCHIROPTERAN"
+      ],
+      "name" : "MACROCHIROPTERAN"
+   },
+   {
+      "imports" : [
+         "MACHAIRODONTIDAE"
+      ],
+      "name" : "MACHAIRODONTINAE",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "INTRATERRITORIAL"
+      ],
+      "name" : "INFRATERRITORIAL",
+      "size" : 1
+   },
+   {
+      "name" : "DESERTIFICATIONS",
+      "imports" : [
+         "DECERTIFICATIONS"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "NONSIGNIFICATION",
+      "imports" : [
+         "CONSIGNIFICATION"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "AUTOLARYNGOSCOPE"
+      ],
+      "name" : "AUTOLARYNGOSCOPY"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "PROSCRIPTIVENESS"
+      ],
+      "name" : "PRESCRIPTIVENESS"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "INSTITUTIONALISE"
+      ],
+      "name" : "INSTITUTIONALIZE"
+   },
+   {
+      "imports" : [
+         "TOTALITARIANIZES"
+      ],
+      "name" : "TOTALITARIANIZED",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "SUPERSERVICEABLE",
+      "imports" : [
+         "SUPERSERVICEABLY"
+      ]
+   },
+   {
+      "name" : "INUNDERSTANDABLE",
+      "imports" : [
+         "UNUNDERSTANDABLE"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "PROCEREMONIALIST",
+      "imports" : [
+         "PROCEREMONIALISM"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "INTERVENTIONISTS",
+      "imports" : [
+         "INTERVENTIONISMS"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "ICHNOGRAPHICALLY"
+      ],
+      "name" : "ICONOGRAPHICALLY",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "ANTHROPOMORPHIZE"
+      ],
+      "name" : "ANTHROPOMORPHITE",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "UNAPPRECIATIVELY"
+      ],
+      "name" : "INAPPRECIATIVELY",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "CHRONOPHOTOGRAPH",
+      "imports" : [
+         "CHROMOPHOTOGRAPH"
+      ]
+   },
+   {
+      "imports" : [
+         "PHENYLKETONURIAS"
+      ],
+      "name" : "PHENYLKETONURICS",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "PALAEOPTYCHOLOGY"
+      ],
+      "name" : "PALAEOPSYCHOLOGY",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "ENTERRITORIALITY",
+      "imports" : [
+         "EXTERRITORIALITY"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "PHOTODISSOCIATES",
+      "imports" : [
+         "PHOTODISSOCIATED"
+      ]
+   },
+   {
+      "name" : "INCALCULABLENESS",
+      "imports" : [
+         "UNCALCULABLENESS"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "PRETERNATURALISM",
+      "imports" : [
+         "PRETERNATURALIST"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "DIVERTICULITIDES"
+      ],
+      "name" : "DIVERTICULITISES",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "IMPERFECTIBILITY"
+      ],
+      "name" : "IMPERFECTABILITY"
+   },
+   {
+      "imports" : [
+         "PNEUMONOKONIOSIS"
+      ],
+      "name" : "PNEUMONOCONIOSIS",
+      "size" : 1
+   },
+   {
+      "name" : "SULPHOANTIMONITE",
+      "imports" : [
+         "SULPHOANTIMONATE"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "SUPERNATURALISTS",
+      "imports" : [
+         "SUPERNATURALISMS"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "UNAPPEALABLENESS",
+      "imports" : [
+         "UNAPPEASABLENESS"
+      ]
+   },
+   {
+      "imports" : [
+         "REPRESSIBILITIES"
+      ],
+      "name" : "DEPRESSIBILITIES",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "MULTITUBERCULATE",
+      "imports" : [
+         "MULTITUBERCULATA"
+      ]
+   },
+   {
+      "imports" : [
+         "REGENERATENESSES"
+      ],
+      "name" : "DEGENERATENESSES",
+      "size" : 1
+   },
+   {
+      "name" : "ASSOCIATIONALISM",
+      "imports" : [
+         "ASSOCIATIONALIST"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "UNRELINQUISHABLE"
+      ],
+      "name" : "UNRELINQUISHABLY",
+      "size" : 1
+   },
+   {
+      "name" : "INTERCRYSTALLINE",
+      "imports" : [
+         "INTERCRYSTALLIZE"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "DECERTIFICATIONS"
+      ],
+      "name" : "RECERTIFICATIONS",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "ASTROPHOTOGRAPHY"
+      ],
+      "name" : "ASTROPHOTOGRAPHS",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "INTRAPERICARDIAC"
+      ],
+      "name" : "INTRAPERICARDIAL"
+   },
+   {
+      "imports" : [
+         "NEOIMPRESSIONIST"
+      ],
+      "name" : "NEOIMPRESSIONISM",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "SUPRANATIONALITY",
+      "imports" : [
+         "SUPRARATIONALITY"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "REGRESSIVENESSES",
+      "imports" : [
+         "REPRESSIVENESSES"
+      ]
+   },
+   {
+      "imports" : [
+         "UNCATECHISEDNESS"
+      ],
+      "name" : "UNCATECHIZEDNESS",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "INTROSPECTIONIST"
+      ],
+      "name" : "INTROSPECTIONISM",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "CRYPTOBRANCHIATA"
+      ],
+      "name" : "CRYPTOBRANCHIATE"
+   },
+   {
+      "imports" : [
+         "INHARMONIOUSNESS"
+      ],
+      "name" : "UNHARMONIOUSNESS",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "UNAUSPICIOUSNESS"
+      ],
+      "name" : "INAUSPICIOUSNESS"
+   },
+   {
+      "size" : 1,
+      "name" : "SUPERBILLIONAIRE",
+      "imports" : [
+         "SUPERMILLIONAIRE"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "HYDROCHARITACEAE"
+      ],
+      "name" : "HYDROCHARIDACEAE"
+   },
+   {
+      "imports" : [
+         "PHOTOCHROMOSCOPE"
+      ],
+      "name" : "PHOTOCHROMASCOPE",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "DEPHOSPHORYLATED"
+      ],
+      "name" : "DEPHOSPHORYLATES",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "PRECONCENTRATION",
+      "imports" : [
+         "PROCONCENTRATION"
+      ]
+   },
+   {
+      "imports" : [
+         "OVERCOMPENSATORS"
+      ],
+      "name" : "OVERCOMPENSATORY",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "UNSUFFERABLENESS"
+      ],
+      "name" : "INSUFFERABLENESS"
+   },
+   {
+      "imports" : [
+         "CONTAINERIZATION"
+      ],
+      "name" : "CONTAINERISATION",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "NONTOPOGRAPHICAL",
+      "imports" : [
+         "NONTYPOGRAPHICAL"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "TUBULIBRANCHIATA"
+      ],
+      "name" : "TUBULIBRANCHIATE"
+   },
+   {
+      "size" : 1,
+      "name" : "UNCORRESPONDENCY",
+      "imports" : [
+         "INCORRESPONDENCY"
+      ]
+   },
+   {
+      "imports" : [
+         "INFRATERRITORIAL"
+      ],
+      "name" : "INTRATERRITORIAL",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "UNDISCRIMINATIVE"
+      ],
+      "name" : "INDISCRIMINATIVE"
+   },
+   {
+      "imports" : [
+         "HYDROSULPHURATED"
+      ],
+      "name" : "HYDROSULPHURETED",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "EPIPHENOMENALIST"
+      ],
+      "name" : "EPIPHENOMENALISM",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "INHOSPITABLENESS"
+      ],
+      "name" : "UNHOSPITABLENESS"
+   },
+   {
+      "name" : "ADENOHYPOPHYSEAL",
+      "imports" : [
+         "ADENOHYPOPHYSIAL"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "IMMEASURABLENESS",
+      "imports" : [
+         "IMMENSURABLENESS"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "SENSATIONALIZING",
+      "imports" : [
+         "SENSATIONALISING"
+      ]
+   },
+   {
+      "imports" : [
+         "PROFESSIONALISTS"
+      ],
+      "name" : "PROFESSIONALISMS",
+      "size" : 1
+   },
+   {
+      "name" : "NEUROHYPOPHYSIAL",
+      "imports" : [
+         "NEUROHYPOPHYSEAL"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "INCIRCUMSPECTION",
+      "imports" : [
+         "UNCIRCUMSPECTION"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "INSATISFACTORILY"
+      ],
+      "name" : "UNSATISFACTORILY",
+      "size" : 1
+   },
+   {
+      "name" : "INSUBSTANTIATION",
+      "imports" : [
+         "UNSUBSTANTIATION"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "CONTAINERIZATION",
+      "imports" : [
+         "CONTAINERISATION"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "DIVERTICULITISES"
+      ],
+      "name" : "DIVERTICULITIDES"
+   },
+   {
+      "imports" : [
+         "EPIPHENOMENALISM"
+      ],
+      "name" : "EPIPHENOMENALIST",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "REINDUSTRIALIZED",
+      "imports" : [
+         "DEINDUSTRIALIZED",
+         "REINDUSTRIALIZES"
+      ]
+   },
+   {
+      "imports" : [
+         "INSUBSTANTIATION"
+      ],
+      "name" : "UNSUBSTANTIATION",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "PANTANENCEPHALIA"
+      ],
+      "name" : "PANTANENCEPHALIC"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "RADIOBROADCASTER"
+      ],
+      "name" : "RADIOBROADCASTED"
+   },
+   {
+      "size" : 1,
+      "name" : "ERYTHROBLASTOSES",
+      "imports" : [
+         "ERYTHROBLASTOSIS"
+      ]
+   },
+   {
+      "imports" : [
+         "ERYTHROCYTOLYSIN"
+      ],
+      "name" : "ERYTHROCYTOLYSIS",
+      "size" : 1
+   },
+   {
+      "name" : "UNCRYSTALLIZABLE",
+      "imports" : [
+         "INCRYSTALLIZABLE"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "THROMBOCYTOPENIA"
+      ],
+      "name" : "THROMBOCYTOPENIC",
+      "size" : 1
+   },
+   {
+      "name" : "DECERTIFICATIONS",
+      "imports" : [
+         "RECERTIFICATIONS",
+         "DESERTIFICATIONS"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "UNRELINQUISHABLY"
+      ],
+      "name" : "UNRELINQUISHABLE",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "EXTERRITORIALITY",
+      "imports" : [
+         "ENTERRITORIALITY"
+      ]
+   },
+   {
+      "name" : "DEVITRIFICATIONS",
+      "imports" : [
+         "DENITRIFICATIONS"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "ULTRANATIONALISM"
+      ],
+      "name" : "ULTRANATIONALIST"
+   },
+   {
+      "name" : "DECONTAMINATIONS",
+      "imports" : [
+         "RECONTAMINATIONS"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "AEROTHERAPEUTICS",
+      "imports" : [
+         "SEROTHERAPEUTICS"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "PROLETARIANIZING"
+      ],
+      "name" : "PROLETARIANISING"
+   },
+   {
+      "imports" : [
+         "PROTELYTROPTERON"
+      ],
+      "name" : "PROTELYTROPTERAN",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "INTERCONVERTIBLE",
+      "imports" : [
+         "INTERCONVERTIBLY"
+      ]
+   },
+   {
+      "name" : "INCOMPREHENSIBLY",
+      "imports" : [
+         "INCOMPREHENSIBLE"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "ERYTHROBLASTOSES"
+      ],
+      "name" : "ERYTHROBLASTOSIS",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "EXTERNALIZATIONS",
+      "imports" : [
+         "EXTERNALISATIONS"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "MEGASPOROGENESIS",
+      "imports" : [
+         "MEGASPOROGENESES"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "PHOTOTOPOGRAPHIC",
+      "imports" : [
+         "PHOTOTYPOGRAPHIC"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "OVERCAUTIOUSNESS"
+      ],
+      "name" : "OVERCAPTIOUSNESS"
+   },
+   {
+      "name" : "DEMINERALIZATION",
+      "imports" : [
+         "REMINERALIZATION"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "ANTIMATERIALISMS",
+      "imports" : [
+         "ANTIMATERIALISTS"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "INCORRUPTIBILITY",
+      "imports" : [
+         "UNCORRUPTIBILITY"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "ANTIMATERIALISTS",
+      "imports" : [
+         "ANTIMATERIALISMS"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "INTERNATIONALIST",
+      "imports" : [
+         "INTERNATIONALISE",
+         "INTERNATIONALISM"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "CRYPTOBRANCHIATE"
+      ],
+      "name" : "CRYPTOBRANCHIATA"
+   },
+   {
+      "name" : "ARTERIOSCLEROSIS",
+      "imports" : [
+         "ARTERIOSCLEROSES"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "REINCARNATIONISM"
+      ],
+      "name" : "REINCARNATIONIST"
+   },
+   {
+      "size" : 1,
+      "name" : "RECONTEXTUALIZES",
+      "imports" : [
+         "RECONTEXTUALIZED"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "PALLIOBRANCHIATE",
+      "imports" : [
+         "PALLIOBRANCHIATA"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "ANTIREDUCTIONISM"
+      ],
+      "name" : "ANTIREDUCTIONIST"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "UNSEASONABLENESS"
+      ],
+      "name" : "UNREASONABLENESS"
+   },
+   {
+      "size" : 1,
+      "name" : "DEMILITARIZATION",
+      "imports" : [
+         "REMILITARIZATION"
+      ]
+   },
+   {
+      "name" : "IRREPRESSIBILITY",
+      "imports" : [
+         "IRREDRESSIBILITY"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "IMMUNOSUPPRESSED",
+      "imports" : [
+         "IMMUNOSUPPRESSES"
+      ]
+   },
+   {
+      "imports" : [
+         "SILICOFLAGELLATA"
+      ],
+      "name" : "SILICOFLAGELLATE",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "CONTROVERSIALISM",
+      "imports" : [
+         "CONTROVERSIALIST"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "DEPARTMENTALIZED"
+      ],
+      "name" : "DEPARTMENTALIZES"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "RECHROMATOGRAPHY"
+      ],
+      "name" : "RECHROMATOGRAPHS"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "UNAUSPICIOUSNESS"
+      ],
+      "name" : "UNSUSPICIOUSNESS"
+   },
+   {
+      "imports" : [
+         "OVERCOMMUNICATES"
+      ],
+      "name" : "OVERCOMMUNICATED",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "COLLABORATIONIST",
+      "imports" : [
+         "COLLABORATIONISM"
+      ]
+   },
+   {
+      "imports" : [
+         "SUPRANATIONALISM"
+      ],
+      "name" : "SUPRARATIONALISM",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "ANTIEVOLUTIONIST"
+      ],
+      "name" : "ANTIEVOLUTIONISM",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "NONSIGNIFICATIVE",
+      "imports" : [
+         "CONSIGNIFICATIVE"
+      ]
+   },
+   {
+      "imports" : [
+         "CIRCUMSTANTIATED"
+      ],
+      "name" : "CIRCUMSTANTIATES",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "INCOGNOSCIBILITY"
+      ],
+      "name" : "UNCOGNOSCIBILITY",
+      "size" : 1
+   },
+   {
+      "name" : "PARALLELOPIPEDON",
+      "imports" : [
+         "PARALLELEPIPEDON"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "INTELLECTUALISMS",
+      "imports" : [
+         "INTELLECTUALISTS"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "UNDISCRIMINATING",
+      "imports" : [
+         "INDISCRIMINATING"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "DIAGRAMMITICALLY",
+      "imports" : [
+         "DIAGRAMMATICALLY"
+      ]
+   },
+   {
+      "imports" : [
+         "VESPERTILIONINAE"
+      ],
+      "name" : "VESPERTILIONIDAE",
+      "size" : 1
+   },
+   {
+      "name" : "ANTHROPOMORPHIST",
+      "imports" : [
+         "ANTHROPOMORPHISM"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "INDECLINABLENESS"
+      ],
+      "name" : "UNDECLINABLENESS"
+   },
+   {
+      "imports" : [
+         "RECONCEPTUALIZED"
+      ],
+      "name" : "RECONCEPTUALIZES",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "ANTIRATIONALISMS",
+      "imports" : [
+         "ANTIRATIONALISTS"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "STRONGYLOIDIASIS",
+      "imports" : [
+         "STRONGYLOIDIASES"
+      ]
+   },
+   {
+      "name" : "INTELLECTUALIZES",
+      "imports" : [
+         "INTELLECTUALIZED",
+         "INTELLECTUALIZER"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "INCORRIGIBLENESS"
+      ],
+      "name" : "UNCORRIGIBLENESS"
+   },
+   {
+      "imports" : [
+         "THEOPHILANTHROPY"
+      ],
+      "name" : "THEOPHILANTHROPE",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "OVERCOMMUNICATES",
+      "imports" : [
+         "OVERCOMMUNICATED"
+      ]
+   },
+   {
+      "name" : "UNUNDERSTANDABLE",
+      "imports" : [
+         "INUNDERSTANDABLE",
+         "UNUNDERSTANDABLY"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "REMILITARIZATION",
+      "imports" : [
+         "DEMILITARIZATION"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "SUBORDINATIONISM"
+      ],
+      "name" : "SUBORDINATIONIST"
+   },
+   {
+      "imports" : [
+         "UNCONTROVERTABLY",
+         "UNCONTROVERTIBLE",
+         "INCONTROVERTIBLY"
+      ],
+      "name" : "UNCONTROVERTIBLY",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "INCONDENSIBILITY"
+      ],
+      "name" : "INCONDENSABILITY",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "SENTIMENTALIZING"
+      ],
+      "name" : "SENTIMENTALISING",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "INTERCONVERTIBLE"
+      ],
+      "name" : "INTERCONVERTIBLY"
+   },
+   {
+      "imports" : [
+         "UNCORRESPONDENCY",
+         "INCORRESPONDENCE"
+      ],
+      "name" : "INCORRESPONDENCY",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "DEINDUSTRIALIZED",
+         "REINDUSTRIALIZES"
+      ],
+      "name" : "DEINDUSTRIALIZES",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "PHILANTHROPINIST"
+      ],
+      "name" : "PHILANTHROPINISM"
+   },
+   {
+      "imports" : [
+         "SUSPICIOUSNESSES"
+      ],
+      "name" : "AUSPICIOUSNESSES",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "PHYLOGENETICALLY",
+      "imports" : [
+         "PHYTOGENETICALLY"
+      ]
+   },
+   {
+      "name" : "PHYTOGENETICALLY",
+      "imports" : [
+         "PHYLOGENETICALLY"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "MISCHARACTERIZED"
+      ],
+      "name" : "MISCHARACTERIZES"
+   },
+   {
+      "imports" : [
+         "INTERNATIONALISE",
+         "INTERNATIONALIST"
+      ],
+      "name" : "INTERNATIONALISM",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "UNCONTRADICTABLY"
+      ],
+      "name" : "UNCONTRADICTABLE",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "NEUROHYPOPHYSIAL"
+      ],
+      "name" : "NEUROHYPOPHYSEAL",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "NONTOPOGRAPHICAL"
+      ],
+      "name" : "NONTYPOGRAPHICAL",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "UNCATECHIZEDNESS"
+      ],
+      "name" : "UNCATECHISEDNESS",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "TELEPHONOGRAPHIC"
+      ],
+      "name" : "TELEPHOTOGRAPHIC"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "ANTICOLONIALISTS"
+      ],
+      "name" : "ANTICOLONIALISMS"
+   },
+   {
+      "imports" : [
+         "ADENOHYPOPHYSEAL"
+      ],
+      "name" : "ADENOHYPOPHYSIAL",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "ANTICOLONIALISTS",
+      "imports" : [
+         "ANTICOLONIALISMS"
+      ]
+   },
+   {
+      "imports" : [
+         "LYMPHADENECTASIS"
+      ],
+      "name" : "LYMPHADENECTASIA",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "PROFESSIONALIZES",
+      "imports" : [
+         "PROFESSIONALIZED"
+      ]
+   },
+   {
+      "name" : "INCOMPREHENSIBLE",
+      "imports" : [
+         "INCOMPREHENSIBLY",
+         "UNCOMPREHENSIBLE"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "DENITRIFICATIONS",
+      "imports" : [
+         "DEVITRIFICATIONS"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "ANORTHOGRAPHICAL"
+      ],
+      "name" : "UNORTHOGRAPHICAL"
+   },
+   {
+      "size" : 1,
+      "name" : "INDISPUTABLENESS",
+      "imports" : [
+         "UNDISPUTABLENESS"
+      ]
+   },
+   {
+      "name" : "PHOTOSYNTHESIZES",
+      "imports" : [
+         "PHOTOSYNTHESIZED"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "UNCONTROVERTIBLE",
+      "imports" : [
+         "INCONTROVERTIBLE",
+         "UNCONTROVERTIBLY",
+         "UNCONTROVERTABLE"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "RECONTEXTUALIZES"
+      ],
+      "name" : "RECONTEXTUALIZED",
+      "size" : 1
+   },
+   {
+      "name" : "UNTERMINABLENESS",
+      "imports" : [
+         "INTERMINABLENESS"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "UNCONTROVERTABLE",
+      "imports" : [
+         "UNCONTROVERTIBLE",
+         "UNCONTROVERTABLY"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "ASSOCIATIONALIST",
+      "imports" : [
+         "ASSOCIATIONALISM"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "REASONABLENESSES",
+      "imports" : [
+         "SEASONABLENESSES"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "ULTRACENTRIFUGED"
+      ],
+      "name" : "ULTRACENTRIFUGES",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "INDELIBERATENESS"
+      ],
+      "name" : "UNDELIBERATENESS"
+   },
+   {
+      "size" : 1,
+      "name" : "THERMOREGULATORS",
+      "imports" : [
+         "THERMOREGULATORY"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "UNCONCLUSIVENESS",
+      "imports" : [
+         "INCONCLUSIVENESS"
+      ]
+   },
+   {
+      "name" : "PREMILLENNIALISM",
+      "imports" : [
+         "PREMILLENNIALIST"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "PROCESSABILITIES",
+      "imports" : [
+         "PROCESSIBILITIES"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "PROSCRIPTIVENESS",
+      "imports" : [
+         "PRESCRIPTIVENESS"
+      ]
+   },
+   {
+      "name" : "MICROPHOTOGRAPHY",
+      "imports" : [
+         "MACROPHOTOGRAPHY",
+         "MICROPHOTOGRAPHS"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "JUSTICIABILITIES"
+      ],
+      "name" : "JUSTIFIABILITIES",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "SENTIMENTALIZING",
+      "imports" : [
+         "SENTIMENTALISING"
+      ]
+   },
+   {
+      "imports" : [
+         "INACCESSIBLENESS"
+      ],
+      "name" : "UNACCESSIBLENESS",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "STAPHYLOCOCCEMIC"
+      ],
+      "name" : "STAPHYLOCOCCEMIA",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "INDISCRIMINATIVE"
+      ],
+      "name" : "UNDISCRIMINATIVE",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "ASPIDOBRANCHIATE"
+      ],
+      "name" : "ASPIDOBRANCHIATA"
+   },
+   {
+      "imports" : [
+         "ELECTROMAGNETISM"
+      ],
+      "name" : "ELECTROMAGNETIST",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "TOTALITARIANIZED"
+      ],
+      "name" : "TOTALITARIANIZES",
+      "size" : 1
+   },
+   {
+      "name" : "UNBELIEVABLENESS",
+      "imports" : [
+         "UNRELIEVABLENESS"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "MACROINSTRUCTION",
+      "imports" : [
+         "MICROINSTRUCTION"
+      ]
+   },
+   {
+      "imports" : [
+         "PHYLLOSTOMATIDAE"
+      ],
+      "name" : "PHYLLOSTOMATINAE",
+      "size" : 1
+   },
+   {
+      "name" : "ANTHROPOMORPHIZE",
+      "imports" : [
+         "ANTHROPOMORPHITE"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "PHYTOCHEMISTRIES",
+      "imports" : [
+         "PHOTOCHEMISTRIES"
+      ]
+   },
+   {
+      "name" : "CHOANOFLAGELLATE",
+      "imports" : [
+         "CHOANOFLAGELLATA"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "CHRONOPHOTOGRAPH"
+      ],
+      "name" : "CHROMOPHOTOGRAPH"
+   },
+   {
+      "size" : 1,
+      "name" : "CADUCIBRANCHIATA",
+      "imports" : [
+         "CADUCIBRANCHIATE"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "STENOGRAPHICALLY",
+      "imports" : [
+         "SCENOGRAPHICALLY"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "NATIONALIZATIONS",
+      "imports" : [
+         "RATIONALIZATIONS"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "DEINDUSTRIALIZES",
+         "REINDUSTRIALIZED"
+      ],
+      "name" : "DEINDUSTRIALIZED"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "MULTIMILLIONAIRE"
+      ],
+      "name" : "MULTIBILLIONAIRE"
+   },
+   {
+      "name" : "ULTRAIMPERIALIST",
+      "imports" : [
+         "ULTRAIMPERIALISM"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "COMPLIMENTALNESS",
+      "imports" : [
+         "COMPLEMENTALNESS"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "MACHAIRODONTINAE"
+      ],
+      "name" : "MACHAIRODONTIDAE",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "ANTIEVOLUTIONIST",
+      "imports" : [
+         "ANTIEVOLUTIONISM"
+      ]
+   },
+   {
+      "name" : "PROCONSOLIDATION",
+      "imports" : [
+         "PRECONSOLIDATION"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "MULTIBILLIONAIRE"
+      ],
+      "name" : "MULTIMILLIONAIRE"
+   },
+   {
+      "size" : 1,
+      "name" : "UNEXPRESSIVENESS",
+      "imports" : [
+         "INEXPRESSIVENESS"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "INCONTROVERTIBLE",
+      "imports" : [
+         "UNCONTROVERTIBLE",
+         "INCONTROVERTIBLY"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "PHILANTHROPINISM"
+      ],
+      "name" : "PHILANTHROPINIST"
+   },
+   {
+      "name" : "INHARMONIOUSNESS",
+      "imports" : [
+         "UNHARMONIOUSNESS"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "UNCORRIGIBLENESS"
+      ],
+      "name" : "INCORRIGIBLENESS",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "MICRORADIOGRAPHY",
+      "imports" : [
+         "MICRORADIOGRAPHS"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "SYNCHRONIZATIONS",
+      "imports" : [
+         "SYNCHRONISATIONS"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "ARTERIOSCLEROSES",
+      "imports" : [
+         "ARTERIOSCLEROSIS"
+      ]
+   },
+   {
+      "name" : "TELEPHONOGRAPHIC",
+      "imports" : [
+         "TELEPHOTOGRAPHIC"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "INALTERABILITIES"
+      ],
+      "name" : "UNALTERABILITIES",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "ANTIRATIONALISMS",
+         "ANTINATIONALISTS"
+      ],
+      "name" : "ANTIRATIONALISTS"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "CONTIGUOUSNESSES"
+      ],
+      "name" : "CONTINUOUSNESSES"
+   },
+   {
+      "imports" : [
+         "DEMINERALIZATION"
+      ],
+      "name" : "REMINERALIZATION",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "INCONVINCIBILITY",
+      "imports" : [
+         "UNCONVINCIBILITY"
+      ]
+   },
+   {
+      "name" : "MACROPHOTOGRAPHY",
+      "imports" : [
+         "MICROPHOTOGRAPHY",
+         "MACROPHOTOGRAPHS"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "FERROHYDROCYANIC"
+      ],
+      "name" : "FERRIHYDROCYANIC"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "AEROBIOLOGICALLY"
+      ],
+      "name" : "AGROBIOLOGICALLY"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "MYXOBACTERIACEAE"
+      ],
+      "name" : "MYCOBACTERIACEAE"
+   },
+   {
+      "imports" : [
+         "PHOTOJOURNALISMS"
+      ],
+      "name" : "PHOTOJOURNALISTS",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "ASPIDOBRANCHIATA"
+      ],
+      "name" : "ASPIDOBRANCHIATE",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "RECONCEPTUALIZES"
+      ],
+      "name" : "RECONCEPTUALIZED"
+   },
+   {
+      "size" : 1,
+      "name" : "EXPERIMENTALISMS",
+      "imports" : [
+         "EXPERIMENTALISTS"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "DEPHOSPHORYLATES"
+      ],
+      "name" : "DEPHOSPHORYLATED"
+   },
+   {
+      "imports" : [
+         "PREREVOLUTIONARY"
+      ],
+      "name" : "PROREVOLUTIONARY",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "UNORTHOGRAPHICAL"
+      ],
+      "name" : "ANORTHOGRAPHICAL"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "FACTITIOUSNESSES"
+      ],
+      "name" : "FICTITIOUSNESSES"
+   },
+   {
+      "imports" : [
+         "DECONCENTRATIONS"
+      ],
+      "name" : "RECONCENTRATIONS",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "ASSIMILATIONISTS"
+      ],
+      "name" : "ASSIMILATIONISMS",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "MYCOBACTERIACEAE"
+      ],
+      "name" : "MYXOBACTERIACEAE"
+   },
+   {
+      "name" : "CONFIGURATIONIST",
+      "imports" : [
+         "CONFIGURATIONISM"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "RESPIRITUALIZING"
+      ],
+      "name" : "DESPIRITUALIZING"
+   },
+   {
+      "size" : 1,
+      "name" : "PHOTOTYPOGRAPHIC",
+      "imports" : [
+         "PHOTOTOPOGRAPHIC"
+      ]
+   },
+   {
+      "imports" : [
+         "PRESENTABILITIES"
+      ],
+      "name" : "PREVENTABILITIES",
+      "size" : 1
+   },
+   {
+      "name" : "INSUSCEPTIBILITY",
+      "imports" : [
+         "UNSUSCEPTIBILITY"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "CONVENTIONALIZED"
+      ],
+      "name" : "CONVENTIONALIZES"
+   },
+   {
+      "size" : 1,
+      "name" : "UNFELICITOUSNESS",
+      "imports" : [
+         "INFELICITOUSNESS"
+      ]
+   },
+   {
+      "imports" : [
+         "CONVENTIONALISTS"
+      ],
+      "name" : "CONVENTIONALISMS",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "UNCONVERTIBILITY",
+      "imports" : [
+         "INCONVERTIBILITY"
+      ]
+   },
+   {
+      "name" : "ASTROPHOTOGRAPHY",
+      "imports" : [
+         "ASTROPHOTOGRAPHS"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "OVERCOMPENSATORS",
+      "imports" : [
+         "OVERCOMPENSATORY"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "INCONTROVERTIBLY",
+      "imports" : [
+         "UNCONTROVERTIBLY",
+         "INCONTROVERTIBLE"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "RESPIRITUALIZING",
+      "imports" : [
+         "DESPIRITUALIZING"
+      ]
+   },
+   {
+      "name" : "CIRCUMSTANTIATED",
+      "imports" : [
+         "CIRCUMSTANTIATES"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "PROPARTICIPATION"
+      ],
+      "name" : "PREPARTICIPATION"
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "RECENTRALIZATION"
+      ],
+      "name" : "DECENTRALIZATION"
+   },
+   {
+      "name" : "PHOTOMICROGRAPHY",
+      "imports" : [
+         "PHOTOMICROGRAPHS"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "UNDEFENDABLENESS"
+      ],
+      "name" : "UNDEPENDABLENESS",
+      "size" : 1
+   },
+   {
+      "name" : "REPOLYMERIZATION",
+      "imports" : [
+         "DEPOLYMERIZATION"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "MICROCOLORIMETRY",
+      "imports" : [
+         "MICROCALORIMETRY"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "PHYTOCHEMISTRIES"
+      ],
+      "name" : "PHOTOCHEMISTRIES",
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "INAPPRECIATIVELY"
+      ],
+      "name" : "UNAPPRECIATIVELY",
+      "size" : 1
+   },
+   {
+      "name" : "COLORIMETRICALLY",
+      "imports" : [
+         "CALORIMETRICALLY"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "ULTRACENTRIFUGED",
+      "imports" : [
+         "ULTRACENTRIFUGES"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "INTROSPECTIONIST",
+      "imports" : [
+         "INTROSPECTIONISM"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "RADIOBROADCASTED"
+      ],
+      "name" : "RADIOBROADCASTER"
+   },
+   {
+      "imports" : [
+         "SUBORDINATIONIST"
+      ],
+      "name" : "SUBORDINATIONISM",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "INTENTIONALITIES",
+      "imports" : [
+         "INTENSIONALITIES"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "PALLIOBRANCHIATA",
+      "imports" : [
+         "PALLIOBRANCHIATE"
+      ]
+   },
+   {
+      "imports" : [
+         "CONFIGURATIONIST"
+      ],
+      "name" : "CONFIGURATIONISM",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "UNUNDERSTANDABLY",
+      "imports" : [
+         "UNUNDERSTANDABLE"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "CIRCUMNAVIGATORY"
+      ],
+      "name" : "CIRCUMNAVIGATORS"
+   },
+   {
+      "size" : 1,
+      "name" : "MICROCOLORIMETER",
+      "imports" : [
+         "MICROCALORIMETER"
+      ]
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "ANTICLERICALISMS"
+      ],
+      "name" : "ANTICLERICALISTS"
+   },
+   {
+      "size" : 1,
+      "name" : "PROTOCOLEOPTERAN",
+      "imports" : [
+         "PROTOCOLEOPTERON"
+      ]
+   },
+   {
+      "name" : "MULTILATERALISTS",
+      "imports" : [
+         "MULTILATERALISMS"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "ELECTROMYOGRAPHY",
+      "imports" : [
+         "ELECTROMYOGRAPHS"
+      ]
+   },
+   {
+      "name" : "INTERNATIONALISE",
+      "imports" : [
+         "INTERNATIONALIZE",
+         "INTERNATIONALIST",
+         "INTERNATIONALISM"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "BRACHISTOCEPHALI"
+      ],
+      "name" : "BRACHISTOCEPHALY",
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "MACROPHOTOGRAPHS",
+         "MICROPHOTOGRAPHY"
+      ],
+      "name" : "MICROPHOTOGRAPHS"
+   },
+   {
+      "name" : "REINCARNATIONISM",
+      "imports" : [
+         "REINCARNATIONIST"
+      ],
+      "size" : 1
+   },
+   {
+      "name" : "COMPLEMENTALNESS",
+      "imports" : [
+         "COMPLIMENTALNESS"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "imports" : [
+         "STENOGRAPHICALLY"
+      ],
+      "name" : "SCENOGRAPHICALLY"
+   },
+   {
+      "name" : "CONFESSIONALISMS",
+      "imports" : [
+         "CONFESSIONALISTS"
+      ],
+      "size" : 1
+   },
+   {
+      "imports" : [
+         "REASONABLENESSES"
+      ],
+      "name" : "SEASONABLENESSES",
+      "size" : 1
+   },
+   {
+      "name" : "RATIONALIZATIONS",
+      "imports" : [
+         "NATIONALIZATIONS"
+      ],
+      "size" : 1
+   },
+   {
+      "size" : 1,
+      "name" : "INALTERABILITIES",
+      "imports" : [
+         "UNALTERABILITIES"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "PROCEREMONIALISM",
+      "imports" : [
+         "PROCEREMONIALIST"
+      ]
+   },
+   {
+      "size" : 1,
+      "name" : "INTELLECTUALIZED",
+      "imports" : [
+         "INTELLECTUALIZER",
+         "INTELLECTUALIZES"
+      ]
+   }
+]
